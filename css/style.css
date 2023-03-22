@@ -18,7 +18,7 @@
     margin-right: 8px;
     margin-left: 10px;
     padding: 0px;
-    margin-top: 40px;
+    margin-top: 20px;
     margin-bottom: 50px;
 }
 
@@ -66,4 +66,21 @@ p {
 .model {
     font-size: 12px;
     font-weight: bold;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 50px;
+}
+
+#gratuiti {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 12px;
+    padding-bottom: 10px;
 }
